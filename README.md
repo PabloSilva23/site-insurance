@@ -1,10 +1,9 @@
 # site-insurance
 
+![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
+
  #### <p align="center">:construction:   Projeto em construção :rocket: .... :construction:
 </p>
-<br>
-<br>
-<br>
 
 # :triangular_ruler: Sobre o projeto
 
