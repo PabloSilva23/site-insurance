@@ -26,6 +26,13 @@ Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
 - Responsividade.
 - Flexbox.
 
+## Tecnologias 👨‍💻
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+* **HTML5**.
+* **CSS3**.
+
 ## Inspirações 🖼️
 
 Inspirada em uma landing page criada no [Dribbble](https://dribbble.com/shots).
@@ -33,13 +40,6 @@ Inspirada em uma landing page criada no [Dribbble](https://dribbble.com/shots).
 ## Funcionalidade 🛠️
 
 Mostrar, de forma visual, a construção de uma landing page voltada para compras da casa. 
-
-## Tecnologias 👨‍💻
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-* **HTML5**.
-* **CSS3**.
 
 ## Pré-requisitos ⚙️
 
