@@ -8,7 +8,7 @@
 ![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
 
 
-# :triangular_ruler: Sobre o projeto
+# :open_book: Sobre o projeto
 
 O projeto em questão é com o intuíto de treinar as habilidades adquiridas de html5, css3, flexbox, responsividade e parallax.
 
