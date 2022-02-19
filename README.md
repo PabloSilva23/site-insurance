@@ -40,11 +40,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * **HTML5**.
 * **CSS3**.
 
-## Responsividade
+### Bibliotecas
 
-## Inspirações 🖼️
+* [Google Fonts](https://fonts.google.com/)
+* [Fontawesome](https://fontawesome.com/v5/search)
+* [Unsplash](https://unsplash.com/wallpapers/phone/lock-screen)
+* [Flaticon](https://www.flaticon.com/search?word=instagram&color=color&shape=hand%20drawn&order_by=4&type=icon)
 
-Inspirada em uma landing page criada no [Dribbble](https://dribbble.com/shots).
+## Layout 🖼️
+
+- Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/uDKVAQqnBCm1W1HOFsSMTN/Insurebound---html5-template-for-insurance-agency-free-download-(Community)?node-id=69%3A5241).
+- Retirada da comunidade do [Figma](https://www.figma.com/).
 
 ## Funcionalidade 🛠️
 
