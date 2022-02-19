@@ -38,8 +38,8 @@ Mostrar, de forma visual, a construção de uma landing page voltada para compra
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-* **HTML5**
-* **CSS3**
+* **HTML5**.
+* **CSS3**.
 
 ## Pré-requisitos ⚙️
 
