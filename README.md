@@ -3,6 +3,8 @@
  #### <p align="center">:construction:   Projeto em construção :rocket: .... :construction:
 </p>
 
+<p align="center">Insurance é um site com foco em vendas de seguro de vida</p>
+
 <br>
 
 ![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
@@ -10,13 +12,13 @@
 
 # :open_book: Sobre o projeto
 
-### Descrição
+### Descrição :page_facing_up:
 
 Insurance é um site com foco em fazer seguro de vida para pessoas que se preocupam em se assegurar caso aconteça um imprevisto com sua própria vida.
 
 Para ver o projeto [clique aqui](https://pablosilva23.github.io/site-insurance/).
 
-### Objetivo
+### Objetivo :dart:
 
 Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
 
