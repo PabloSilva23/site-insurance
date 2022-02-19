@@ -10,15 +10,15 @@
 ![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
 
 
-# Sobre :open_book: 
+# Sobre 📖
 
-### Descrição :page_facing_up:
+### Descrição 📄
 
 Insurance é um site com foco em fazer seguro de vida para pessoas que se preocupam em se assegurar caso aconteça um imprevisto com sua própria vida.
 
 Para ver o projeto [clique aqui](https://pablosilva23.github.io/site-insurance/).
 
-### Objetivo :dart:
+### Objetivo 🎯
 
 Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
 
@@ -26,26 +26,26 @@ Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
 - Responsividade.
 - Flexbox.
 
-## :framed_picture: Inspirações
+## Inspirações 🖼️
 
 Inspirada em uma landing page criada no [Dribbble](https://dribbble.com/shots).
 
-## :hammer_and_wrench: Funcionalidade
+## Funcionalidade 🛠️
 
 Mostrar, de forma visual, a construção de uma landing page voltada para compras da casa. 
 
-## :man_technologist: Tecnologias
+## Tecnologias 👨‍💻
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * **HTML5**
 * **CSS3**
 
-## :gear: Pré-requisitos
+## Pré-requisitos ⚙️
 
 Antes de começar, você vai precisar ter instalado em usa máquina as seguintes ferramentas: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/). Além disso, é bom ter um editor para trabalhar com o código, como: [VS Code](https://code.visualstudio.com/).
 
-## :mailbox_with_mail: Como contribuir
+## Como contribuir 📬
 
 Para contribuir com Insurance, siga estas etapas:
 
