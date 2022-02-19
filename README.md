@@ -3,6 +3,13 @@
  #### <p align="center">:construction:   Projeto em construção :rocket: .... :construction:
 </p>
 
+<p align="center">
+  <a href="#sobre-">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#requisitos-">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades-">Funcionalidades</a>
+</p>
+
 <p align="center">Insurance é um site com foco em vendas de seguro de vida</p>
 
 <br>
@@ -41,7 +48,7 @@ Inspirada em uma landing page criada no [Dribbble](https://dribbble.com/shots).
 
 - Nenhuma.
 
-## Pré-requisitos ⚙️
+## Requisitos ⚙️
 
 Antes de começar, você vai precisar ter instalado em usa máquina as seguintes ferramentas: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/). Além disso, é bom ter um editor para trabalhar com o código, como: [VS Code](https://code.visualstudio.com/).
 
