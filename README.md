@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * **HTML5**.
 * **CSS3**.
 
-### Bibliotecas
+### Bibliotecas 📚
 
 * [Google Fonts](https://fonts.google.com/)
 * [Fontawesome](https://fontawesome.com/v5/search)
