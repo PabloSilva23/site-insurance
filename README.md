@@ -3,14 +3,14 @@
  #### <p align="center">:construction:   Projeto em construção :rocket: .... :construction:
 </p>
 
+<p align="center">Insurance é um site com foco em vendas de seguro de vida.</p>
+
 <p align="center">
   <a href="#sobre-">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#requisitos-">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#responsividade-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades-">Funcionalidades</a>
 </p>
-
-<p align="center">Insurance é um site com foco em vendas de seguro de vida</p>
 
 <br>
 
@@ -39,6 +39,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * **HTML5**.
 * **CSS3**.
+
+## Responsividade
 
 ## Inspirações 🖼️
 
@@ -81,4 +83,4 @@ Para contribuir com Insurance, siga estas etapas:
 1. Crie a solicitação de pull. Como alternativa, consulte a documentação do GitHub em como criar uma solicitação pull.
 
 ---
-Feito com ♥ by [Pablo Silva](https://github.com/PabloSilva23)
+Feito por [Pablo Silva](https://github.com/PabloSilva23).
