@@ -10,9 +10,19 @@
 
 # :open_book: Sobre o projeto
 
-O projeto em questão é com o intuíto de treinar as habilidades adquiridas de html5, css3, flexbox, responsividade e parallax.
+### Descrição
+
+Insurance é um site com foco em fazer seguro de vida para pessoas que se preocupam em se assegurar caso aconteça um imprevisto com sua própria vida.
 
 Para ver o projeto [clique aqui](https://pablosilva23.github.io/site-insurance/).
+
+### Objetivo
+
+Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
+
+- DOM.
+- Responsividade.
+- Flexbox.
 
 ## :framed_picture: Inspirações
 
@@ -32,3 +42,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :gear: Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em usa máquina as seguintes ferramentas: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/). Além disso, é bom ter um editor para trabalhar com o código, como: [VS Code](https://code.visualstudio.com/).
+
+## :mailbox_with_mail: Como contribuir
+
+Para contribuir com Insurance, siga estas etapas:
+
+1. Bifurque este repositório.
+1. Crie um branch: `git checkout -b <nome_branch>`
+1. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+1. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+1. Crie a solicitação de pull. Como alternativa, consulte a documentação do GitHub em como criar uma solicitação pull.
