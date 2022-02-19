@@ -1,4 +1,4 @@
-# site-insurance
+<h1 align="center">Insurance</h1>
 
  #### <p align="center">:construction:   Projeto em construção :rocket: .... :construction:
 </p>
@@ -10,7 +10,7 @@
 ![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
 
 
-# :open_book: Sobre o projeto
+# Sobre :open_book: 
 
 ### Descrição :page_facing_up:
 
