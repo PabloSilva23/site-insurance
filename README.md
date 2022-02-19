@@ -54,3 +54,6 @@ Para contribuir com Insurance, siga estas etapas:
 1. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 1. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 1. Crie a solicitação de pull. Como alternativa, consulte a documentação do GitHub em como criar uma solicitação pull.
+
+---
+Feito com ♥ by [Pablo Silva](https://github.com/PabloSilva23)
