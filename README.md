@@ -24,6 +24,8 @@ Mostrar, de forma visual, a construção de uma landing page voltada para compra
 
 ## :man_technologist: Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 * **HTML5**
 * **CSS3**
 
