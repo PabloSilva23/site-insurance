@@ -48,18 +48,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <details>
 <summary>Telas 📺</summary>
-
- <h3 align='center'>Mobile 📱</h3>
-
+ 
+   <h3 align="center">Mobile 📱</h3>
  <div align="center">
- <img src="https://user-images.githubusercontent.com/87915108/154839666-23068451-d67a-44e8-acab-1a930c2105b5.gif" width="300px"></img>
+   <img src="https://user-images.githubusercontent.com/87915108/154840296-fb01a75e-3674-4902-a43b-1560a19f9cee.png" width="200px"></img>
  </div>
-
- <h3 align='center'>Notebook 💻</h3>
-
- <div align="center">
- <img src="https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif" width="700px"></img>
- </div>
+   <h3 align='center'>Notebook 💻</h3>
+   <div align="center">
+   <img src="https://user-images.githubusercontent.com/87915108/154840310-dd1dc5c0-07b9-49f9-8191-43c93989a01e.png" width="600px"></img>
+  </div>
  
 </details>
 
