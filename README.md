@@ -6,10 +6,10 @@
 <p align="center">Insurance é um site com foco em vendas de seguro de vida.</p>
 
 <p align="center">
-  <a href="#sobre-">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#responsividade-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalidade-">Funcionalidades</a>
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#responsividade">Responsividade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Funcionalidades</a>
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 ![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
 
 
-# Sobre 📖
+<h1 id="sobre">Sobre 📖</h1>
 
 ### Descrição 📄
 
@@ -40,11 +40,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * **HTML5**.
 * **CSS3**.
 
-## Funcionalidade 🛠️
+<h2 id="funcionalidades">Funcionalidade 🛠️</h2>
 
 - Nenhuma.
 
-## Responsividade 	📱	🖥️
+<h2 id="responsividade">Responsividade 	📱	🖥️</h2>
 
 <details>
 <summary>Telas 📺</summary>
