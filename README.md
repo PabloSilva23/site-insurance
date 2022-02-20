@@ -40,6 +40,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * **HTML5**.
 * **CSS3**.
 
+## Funcionalidade 🛠️
+
+- Nenhuma.
+
+## Responsividade
+
 ### Bibliotecas 📚
 
 * [Google Fonts](https://fonts.google.com/)
@@ -51,10 +57,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/uDKVAQqnBCm1W1HOFsSMTN/Insurebound---html5-template-for-insurance-agency-free-download-(Community)?node-id=69%3A5241).
 - Retirada da comunidade do [Figma](https://www.figma.com/).
-
-## Funcionalidade 🛠️
-
-- Nenhuma.
 
 ## Requisitos ⚙️
 
