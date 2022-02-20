@@ -46,6 +46,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Responsividade
 
+<details>
+<summary><strong>Telas<strong> 📺</summary>
+
+ <h3 align="center">Mobile 📱<h3>
+
+ <h3 align="center">Notebook 💻<h3>
+ 
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif" width="700px"></img>
+ </div>
+ 
+</details>
+
 ### Bibliotecas 📚
 
 * [Google Fonts](https://fonts.google.com/)
