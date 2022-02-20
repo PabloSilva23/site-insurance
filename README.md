@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Nenhuma.
 
-## Responsividade
+## Responsividade 	📱	🖥️
 
 <details>
 <summary>Telas 📺</summary>
