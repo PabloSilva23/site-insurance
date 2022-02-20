@@ -33,7 +33,7 @@ Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
 - Responsividade.
 - Flexbox.
 
-## Tecnologias 👨‍💻
+<h2 id="tecnologias">Tecnologias 👨‍💻</h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
