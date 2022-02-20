@@ -40,6 +40,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * **HTML5**.
 * **CSS3**.
 
+### Bibliotecas 📚
+
+* [Google Fonts](https://fonts.google.com/)
+* [Fontawesome](https://fontawesome.com/v5/search)
+* [Unsplash](https://unsplash.com/wallpapers/phone/lock-screen)
+* [Flaticon](https://www.flaticon.com/search?word=instagram&color=color&shape=hand%20drawn&order_by=4&type=icon)
+
 <h2 id="funcionalidades">Funcionalidade 🛠️</h2>
 
 - Nenhuma.
@@ -59,13 +66,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   </div>
  
 </details>
-
-### Bibliotecas 📚
-
-* [Google Fonts](https://fonts.google.com/)
-* [Fontawesome](https://fontawesome.com/v5/search)
-* [Unsplash](https://unsplash.com/wallpapers/phone/lock-screen)
-* [Flaticon](https://www.flaticon.com/search?word=instagram&color=color&shape=hand%20drawn&order_by=4&type=icon)
 
 ## Layout 🖼️
 
