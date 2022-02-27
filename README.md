@@ -31,6 +31,7 @@ Práticar os principais recursos de HTML, CSS e Javascript. Entre eles:
 
 - DOM.
 - Responsividade.
+- Mobile first.
 - Flexbox.
 
 <h2 id="tecnologias">Tecnologias 👨‍💻</h2>
