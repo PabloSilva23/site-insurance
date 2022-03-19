@@ -44,6 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Fontawesome](https://fontawesome.com/v5/search)
 * [Unsplash](https://unsplash.com/wallpapers/phone/lock-screen)
 * [Flaticon](https://www.flaticon.com/search?word=instagram&color=color&shape=hand%20drawn&order_by=4&type=icon)
+* [ScrollReveal](https://scrollrevealjs.org/)
 
 <h2 id="funcionalidades">Funcionalidade 🛠️</h2>
 
