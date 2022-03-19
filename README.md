@@ -1,8 +1,5 @@
 <h1 align="center">Insurance</h1>
 
- #### <p align="center">:construction:   Projeto em construção :rocket: .... :construction:
-</p>
-
 <p align="center">Insurance é um site com foco em vendas de seguro de vida.</p>
 
 <p align="center">
