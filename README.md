@@ -14,8 +14,7 @@
 
 <br>
 
-![insurance](https://user-images.githubusercontent.com/87915108/154224713-2d6b6898-ddc3-491e-83f2-7e8976787b36.gif)
-
+![dsadasd](https://user-images.githubusercontent.com/87915108/159140876-2fac78b5-2aee-4642-ba86-2aa2619115db.gif)
 
 <h1 id="sobre">Sobre 📖</h1>
 
@@ -64,7 +63,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  </div>
    <h3 align='center'>Notebook 💻</h3>
    <div align="center">
-   <img src="https://user-images.githubusercontent.com/87915108/154840310-dd1dc5c0-07b9-49f9-8191-43c93989a01e.png" width="600px"></img>
+   <img src="https://user-images.githubusercontent.com/87915108/159140923-a737ea2c-0ec2-43f8-aec7-9532ec142ab1.png" width="600px"></img>
   </div>
  
 </details>
