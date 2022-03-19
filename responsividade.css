@@ -1,4 +1,3 @@
-
 @media screen and (min-width: 380px) {
 
     .container {
@@ -9,11 +8,12 @@
         width: 100%;
         position: fixed;
         z-index: 1;
+        height: 90rem;
     }
     
     header nav ul {
-        visibility: hidden;
         opacity: 0;
+        visibility: hidden;
         position: fixed;
         background-color: white;
         display: flex;
@@ -212,7 +212,6 @@
 
     .cards-icon {
         display: flex;
-        flex-direction: row;
     }
 
     section:nth-child(2) .card-icon {
@@ -583,15 +582,8 @@
 
 @media screen and (min-width: 900px) {
     
-    /* nav {
-        position: static;
-        height: 3rem;
-        display: flex;
-        background-color: rebeccapurple;
-    } */
-    
     header nav ul {
-        visibility: visible;
+        visibility: hidden;
         opacity: 1;
         position: static;
         background-color: transparent;
@@ -599,10 +591,6 @@
         width: 0vw;
         height: 0vh;
     }
-    
-    /* nav .menu li {
-        opacity: 1;
-    } */
 
     .icon-bar {
         display: none;
@@ -631,6 +619,7 @@
     
     section:nth-child(1) .card-review {
         display: flex;
+        visibility: hidden;
     }
     
     section:nth-child(1) .card-quality {
@@ -640,6 +629,7 @@
 
     section:nth-child(2) {
         display: flex;
+        flex-direction: row;
     }
 
     section:nth-child(3) {
@@ -665,6 +655,10 @@
     section:nth-child(3) .card-feedback {
         position: relative;
         margin: 1rem;
+    }
+
+    section:nth-child(3) .card-feedback p {
+        opacity: 1;
     }
 
     section:nth-child(5) {
